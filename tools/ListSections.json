@@ -1,0 +1,1 @@
+{"tool":"ListSections","namespace":"cursor","description":"List the user's current sidebar sections, including each section's stable id and display name. Use a returned id with CreateAgent to place a new teammate in that section. If there are no custom sections, CreateAgent should omit section_id.","inputSchema":{"type":"object","properties":{}}}
